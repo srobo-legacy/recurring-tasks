@@ -8,3 +8,5 @@ milestone: $SRYYYY Competition
 
 description: >-
     In case we need to print out MCFs/game lists/whatever at high speed.
+
+    Ideally, this should be a networked printer allowing anyone in the venue to print remotely. This is particularly useful for the shepherds to get new schedulers at a moments notice.
