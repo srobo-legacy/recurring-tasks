@@ -1,0 +1,14 @@
+summary: PAT Test Kit For Competition
+
+priority: major
+
+component: competition
+
+milestone: $SRYYYY Competition
+
+description: >-
+    All of our electricial equipment needs saftey testing before the competition.   
+    In addition We need to confirm that kit hire companies will pat test the kit we are hiring. 
+
+dependencies:
+    - comp/arena/screens-hire
